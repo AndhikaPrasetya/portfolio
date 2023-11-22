@@ -30,9 +30,9 @@ export const About = () => {
               </p>
             </div>
           </li>
-          <li className={styles.aboutItem}>
+          {/* <li className={styles.aboutItem}>
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
+              <h3> Developer</h3>
               <p>
                 I have experience developing fast and optimised back-end systems
                 and APIs
@@ -47,7 +47,7 @@ export const About = () => {
                 and APIs
               </p>
             </div>
-          </li>
+          </li> */}
          
          
         </ul>
