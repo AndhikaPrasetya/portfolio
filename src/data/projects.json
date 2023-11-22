@@ -1,25 +1,25 @@
 [
   {
-    "title": "Project A",
+    "title": " FLIX",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "The project combines the use of React JS and React Bootstrap in creating a website that uses the TMDB API as the primary data source to display movie information. With this technology, sites can display favourite movies, and movie details.",
+    "skills": ["React","React-Bootstrap", "TMDB API"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
+    "title": "NEWS",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "description": "The project focuses on building websites using React JS and React Bootstrap, with NEWSAPI as the primary source of data. Through the use of React technology, the site is able to display the latest news information taken from The NEWSAPI and news categories. ",
+    "skills": ["React","React-Bootstrap", "NEWSAPI"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project C",
+    "title": "PKBI Website Development",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "The project involved building a web site using PHP integrated with the CodeIgniter 4 Framework, combined with MySQL database integration for data presentation. In addition, it deals with persistent challenges in specific functionality, and efficient user experience.",
+    "skills": ["HTML","Bootstrap 5","CodeIgniter 4"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   }

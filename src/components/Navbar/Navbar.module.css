@@ -33,6 +33,11 @@
   text-decoration: none;
 }
 
+.logoImg {
+  width: 100px; /* Atur lebar gambar sesuai keinginan */
+  height: auto; /* Gunakan 'auto' untuk mempertahankan rasio aspek gambar */
+}
+
 @media screen and (max-width: 830px) {
   .navbar {
     flex-direction: column;
