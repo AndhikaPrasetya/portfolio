@@ -16,7 +16,7 @@ export const About = () => {
         <ul className={styles.aboutItems}>
         <li className={styles.aboutItem}>
             <div className={styles.aboutItemText}>
-              <h3>Bachelor of Science Computer in Informatic Engineering, Mercu Buana University</h3>
+              <h3>Bachelor Of Science Computer in Informatic Engineering, Mercu Buana University</h3>
               <p>
               Major in Information System | Minor in Information Technology Management System | GPA: 3.75
               </p>
