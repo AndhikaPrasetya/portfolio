@@ -30,24 +30,7 @@ export const About = () => {
               </p>
             </div>
           </li>
-          {/* <li className={styles.aboutItem}>
-            <div className={styles.aboutItemText}>
-              <h3> Developer</h3>
-              <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
-              </p>
-            </div>
-          </li>
-          <li className={styles.aboutItem}>
-            <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
-              <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
-              </p>
-            </div>
-          </li> */}
+         
          
          
         </ul>
