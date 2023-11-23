@@ -30,9 +30,6 @@ export const About = () => {
               </p>
             </div>
           </li>
-         
-         
-         
         </ul>
       </div>
     </section>
