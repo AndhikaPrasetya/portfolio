@@ -25,7 +25,7 @@ export const About = () => {
               </div>
               <div className={styles.aboutInfo}>
                 Major in Information System | Minor in Information Technology
-                Management System | GPA: 3.80
+                Management System | GPA: 3.81
               </div>
             </div>
           </li>
