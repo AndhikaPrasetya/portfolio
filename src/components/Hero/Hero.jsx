@@ -9,10 +9,10 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Andhika Prasetya </h1>
         <p className={styles.description}>
-          A third-year undergraduate student studying Information Systems and I
-          have the skills and experience in web development, especially as a
-          frontend developer and backend developer. I also have a quick learner,
-          knowledge-curious, creative mind and adaptable person.
+          I am a final-year undergraduate student studying Information Systems
+          with skills and experience in web development, particularly as a
+          frontend and backend developer. I am also a quick learner,
+          knowledge-curious, creative, and adaptable individual.
         </p>
         <a href="#contact" className={styles.contactBtn}>
           Contact Me

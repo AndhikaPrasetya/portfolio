@@ -16,10 +16,10 @@ export const ProjectCard = ({
       <h3 className={styles.title}>{title}</h3>
       <p className={styles.description}>{description}</p>
       <ul className={styles.skills}>
-        {skills.map((skill, id) => {
+        {skills.map((item, id) => {
           return (
-            <li key={id} className={styles.skill}>
-              {skill}
+            <li key={id} className={styles.item}>
+              {item}
             </li>
           );
         })}

@@ -38,6 +38,10 @@
   height: auto; /* Gunakan 'auto' untuk mempertahankan rasio aspek gambar */
 }
 
+.menuBtn {
+  display: none;
+}
+
 @media screen and (max-width: 830px) {
   .navbar {
     flex-direction: column;

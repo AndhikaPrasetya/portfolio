@@ -66,6 +66,10 @@
   font-size: 25px;
 }
 
+.aboutInfo{
+  font-size: 20px;
+}
+
 @media screen and (max-width: 830px) {
   .container {
     background-color: transparent;
@@ -88,5 +92,9 @@
   .aboutItem {
     padding-left: 0;
     padding-right: 0;
+  }
+
+  .aboutYear{
+    font-size : px;
   }
 }
